@@ -17,3 +17,6 @@ x=1%2
 
 x=1**2
 
+#Multiplication of Two Numbers
+
+x=1*2 y=3*4
