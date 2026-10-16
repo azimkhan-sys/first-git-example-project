@@ -23,3 +23,10 @@ x=1**2
 
 x=1*2 y=3*4
 
+
+#Addition of Two Numbers
+
+x=1+2 y=1+2
+
+
+
