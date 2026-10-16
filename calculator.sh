@@ -29,4 +29,9 @@ x=1*2 y=3*4
 x=1+2 y=1+2
 
 
+#Subtraction of Two Numbers
+
+x=1-2 y=1-2
+
+
 
