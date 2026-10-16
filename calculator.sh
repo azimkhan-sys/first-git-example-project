@@ -40,4 +40,9 @@ x=1**2
 x=1+2 y=1+2
 
 
+#Subtraction of Two Numbers
+
+x=1-2 y=1-2
+
+
 
